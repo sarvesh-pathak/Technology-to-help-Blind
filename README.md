@@ -9,5 +9,8 @@ This Project consisted of an Aurdino and ESP 32 CAM as Hardware components there
 • Utilised C/C++ and Python for the project.
 
 <img width="224" src="https://github.com/user-attachments/assets/e4309cf4-f64f-441b-8ac4-4026479b9260"/>
+
+
 • Developed deep learning models for face detection and recognition, significantly improving the user experience.Incorporated vibrational feedback for obstacle avoidance and audio guidance for enhanced navigation.
+
 <img width="224" src="https://github.com/user-attachments/assets/c3c277fe-8977-40ad-b125-55dd6e230b82"/>
