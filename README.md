@@ -2,7 +2,7 @@
 This Project consisted of an Aurdino and ESP 32 CAM as Hardware components there were several ultrasonic sensors as well. I personally worked on Machine Learning part of the project hence I have uploaded the Python file that showcases my contributation.
 
 
-<img width="424" "https://github.com/user-attachments/assets/fd7c5b55-06d6-4522-a19e-530b1b510936"/>
+<img width="424" alt="https://github.com/user-attachments/assets/fd7c5b55-06d6-4522-a19e-530b1b510936"/>
 
 
 • Engineered a smart cap with integrated distance sensors providing haptic feedback to help visually impaired individuals navigate their surroundings.
